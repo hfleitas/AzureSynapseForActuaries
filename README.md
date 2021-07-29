@@ -9,22 +9,22 @@ Weather you're in operations, finance or infrastructure, this session will have 
 
 1. Finance Modernization - What is an Actuary?
 2. R & SQL more intelligently [DEMO]
-     a. R Desktop Bad-Case Scenario (Start)
-     b. R on the Server (Interim)
-     c. R in the database & Azure Data Studio (Finish)
+* R Desktop Bad-Case Scenario (Start)
+* R on the Server (Interim)
+* R in the database & Azure Data Studio (Finish)
 3. Azure DevOps [DEMO]
-     a. Board
-     b. Repos for enabling rapid actuarial development
-     c. Pipelines  CI/CD
+* Board
+* Repos for enabling rapid actuarial development
+* Pipelines  CI/CD
 4. Azure Data Factory
-     a. Pipelines for Orchestrating Automation
-     b. Transformations - Wrangling  & Mapping Data Flows
-     c. Data movement including on-premises sources
+* Pipelines for Orchestrating Automation
+* Transformations - Wrangling  & Mapping Data Flows
+* Data movement including on-premises sources
 5. Synapse
-     a. Data exploratory
-     b. Develop Notebooks
-     c. Serverless Pools
-     d. Preview for Data Dictionary & Process Flows.
+* Data exploratory
+* Develop Notebooks
+* Serverless Pools
+* Preview for Data Dictionary & Process Flows.
 
 ## Summary & Resources
 
