@@ -28,8 +28,8 @@ Weather you're in operations, finance or infrastructure, this session will have 
 
 ## Summary & Resources
 
-Example(s): https://www.meetup.com/tripass/events/268693206/
-Example(s): seattle2019/AgendaSummaryBio.md at master · hfleitas/seattle2019 (github.com)
+* Example(s): https://www.meetup.com/tripass/events/268693206/
+* Example(s): https://github.com/hfleitas/seattle2019/blob/master/2SentimentPrediction/AgendaSummaryBio.md
 
 ## Resources:
 [Seattle PASS Summit 2019](https://github.com/hfleitas/seattle2019) (see pdf per session)
