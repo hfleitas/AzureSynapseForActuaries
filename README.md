@@ -13,18 +13,17 @@ Weather you're in operations, finance or infrastructure, this session will have 
 * R on the Server (Interim)
 * R in the database & Azure Data Studio (Finish)
 3. Azure DevOps [DEMO]
-* Board
-* Repos for enabling rapid actuarial development
 * Pipelines  CI/CD
-4. Azure Data Factory
+* Board (Bonus)
+* Repos for enabling rapid actuarial development (Bonus)
+4. Azure Synapse
 * Pipelines for Orchestrating Automation
-* Transformations - Wrangling  & Mapping Data Flows
 * Data movement including on-premises sources
-5. Synapse
+* Transformations - Wrangling  & Mapping Data Flows
 * Data exploratory
-* Develop Notebooks
-* Serverless Pools
-* Preview for Data Dictionary & Process Flows.
+* Develop Notebooks (Bonus)
+* Serverless Pools (Bonus)
+* Purview for Data Dictionary & Process Flows (Bonus)
 
 ## Summary & Resources
 
