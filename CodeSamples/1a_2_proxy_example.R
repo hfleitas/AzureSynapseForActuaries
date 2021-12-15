@@ -47,4 +47,10 @@ callResult        <- function(i,o,keyValue,predictSpace){
 
 result <- callResult(input_dt,output_dt,uniqueIDName,thePredictionSet)
 
-result[order(result[,1]),]
+#outflows
+summary(result[1,]$theInput[[1]]$targetCashflow)
+summary(result[1,]$theModelPrediction[[1]])
+
+#inflows
+summary(result[2,]$theInput[[1]]$targetCashflow)
+summary(result[2,]$theModelPrediction[[1]])
