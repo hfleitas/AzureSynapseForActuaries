@@ -1,6 +1,8 @@
 # SOA-BackToBasicsAnalyticsForActuaries
 SOA Back To Basics Analytics for Actuaries
 
+Stream Recording: https://cdn-files.soa.org/pd/2021_impact_conference/mtg20211900/pd_2021_10_impact_session_10e.mp4
+
 # OneNote
 
 ## Back to Basics: Analytics for Actuaries
